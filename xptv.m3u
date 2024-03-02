@@ -1,4 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
-#EXTINF:-1 group-title="地方台" tvg-id="石家庄都市",石家庄都市（审核专用）
+#EXTINF:-1 group-title="审核" tvg-id="审核专用",审核专用
 http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
