@@ -1,3 +1,3 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="Animation",XPTV
-https://github.com/BBC6BAE9/sample-video/blob/main/resources/h265.mp4
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="Alpaca" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="XPTV",Alpaca
+https://raw.githubusercontent.com/BBC6BAE9/sample-video/main/resources/h265.mp4
